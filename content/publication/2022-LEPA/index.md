@@ -27,13 +27,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Powder Technology, 2022, 407: 117634*
+publication: In *Powder Technology*
 publication_short: In *PT*
 
-abstract: 
+#abstract: 
 
 # Summary. An optional shortened abstract.
-summary: 
+#summary: 
 
 tags: []
 
