@@ -30,12 +30,12 @@ publication_types: ['2']
 publication: In *Powder Technology*
 publication_short: In *PT*
 
-#abstract: 
+abstract: An improved linear model is developed for elasto-plastic and adhesive contact. New correlations are proposed and validated to estimate the key parameters of the model, including contact stiffness, yield point, maximum pull-off force and time step. The newly proposed contact model is applied to the analysis of single particle contact behaviour upon impact and bulk particle flow behaviour by DEM simulations. The results show that both single particle and bulk powder behave more 鈥渃ohesively鈥?if contact plastic deformation is considered. A cohesion yield number is proposed to describe the extent of yielding when cohesive particles are in contact with each other. There is a critical particle size, below which the effect of plastic deformation becomes prominent and must be considered. This provides a new framework and criteria for elasto-plastic and adhesive contact model, and a step towards understanding the effect of plastic deformation on the behaviour of cohesive particles.
 
 # Summary. An optional shortened abstract.
 #summary: 
 
-tags: []
+tags: [Contact model; Plastic deformation; Cohesive powder; Sticking velocity; DEM; Flowability]
 
 # Display this page in the Featured widget?
 featured: true
