@@ -59,7 +59,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ''
+email: 'nanwg@njtech.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -71,4 +71,4 @@ highlight_name: true
 
 研究领域：3D打印和粉体技术中颗粒/多相流动； 新能源相变储热和核能利用过程中流动与传热。
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/南文光-CV-July2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
