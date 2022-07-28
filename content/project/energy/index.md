@@ -1,8 +1,8 @@
 ---
-title: 增材制造
-summary: 揭示颗粒形状和黏附性对颗粒流变特性的影响机制，完善不同流态中颗粒物质动力学本构方程，并发展基于该本构方程的颗粒流动的连续介质模拟方法.
+title: 绿色能源
+summary: 
 tags:
-  - Powder Spreading
+  - New Energy
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -30,4 +30,4 @@ url_video: ''
 slides: example
 ---
 
-探究狭窄通道、高剪切应变率、高黏附性和气流卷吸复杂条件下的颗粒动力学机理；发展以超薄粉层为研究对象的粉体铺粉性测试和表征技术；探究超薄粉层在狭窄间隙区的颗粒动态堵塞问题，并推进新的高效铺粉技术。
+高温相变储能。
