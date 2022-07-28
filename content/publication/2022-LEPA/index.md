@@ -14,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+#date: '2013-07-01T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.powtec.2022.117634'
 
 # Schedule page publish date (NOT publication's date).
@@ -28,7 +28,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Powder Technology*
-publication_short: In *PT*
+publication_short: Powder Technology, 2022, 407: 117634
 
 #abstract: 
 
