@@ -18,13 +18,13 @@ content:
   filters:
     folders:
       - publication
-    tag: '[1]	Nan Wenguang, Goh Wei Pin, Rahman Mohammad Tarequr. Elasto-plastic and adhesive contact: An improved linear model and its application. Powder Technology, 2022, 407: 117634.     '
-#    category: ''
-#    publication_type: ''
-#    author: ''
-#    exclude_featured: false
-#    exclude_future: false
-#    exclude_past: false
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
 #  # Choose how many pages you would like to display (0 = all pages)
 #  count: 0
 #  # Choose how many pages you would like to offset by
