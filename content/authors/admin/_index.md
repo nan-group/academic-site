@@ -43,8 +43,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: iD
-    icon_pack: ai
+  - icon: orcid
+    icon_pack: fab
     link: https://orcid.org/0000-0002-1026-4945
   - icon: cv
     icon_pack: ai
