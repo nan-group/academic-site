@@ -1,19 +1,18 @@
 ---
-title: '[1]	Nan Wenguang, Goh Wei Pin, Rahman Mohammad Tarequr. Elasto-plastic and adhesive contact: An improved linear model and its application. Powder Technology, 2022, 407: 117634'
+title: '[1]	Elasto-plastic and adhesive contact: An improved linear model and its application. , 2022, 407: 117634'
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
-#authors:
-#  - admin
-#  - Robert Ford
+authors:
+  - Nan Wenguang
+  - Goh Wei Pin
+  - Rahman Mohammad Tarequr. 
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-doi: ''
+doi: 'https://doi.org/10.1016/j.powtec.2022.117634'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +21,7 @@ doi: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: Powder Technology
 abstract: 
 
 # Summary. An optional shortened abstract.
@@ -38,14 +37,4 @@ tags: []
 url_pdf: ''
 url_code: ''
 url_source: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-projects:
-  - example
-slides: example
 ---
