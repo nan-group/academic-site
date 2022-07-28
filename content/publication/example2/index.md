@@ -13,7 +13,11 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
+date: '2013-07-01T00:00:00Z'
 doi: ''
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,6 +34,9 @@ summary:
 
 tags: []
 
+# Display this page in the Featured widget?
+featured: true
+
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
@@ -37,7 +44,12 @@ tags: []
 
 url_pdf: ''
 url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
 url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
