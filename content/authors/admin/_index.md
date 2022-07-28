@@ -6,7 +6,7 @@ title: 南文光
 superuser: true
 
 # Role/position/tagline
-role: 副教授
+role: 副教授/研究生导师
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -40,12 +40,15 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=0l6VJqIAAAAJ&hl=en&oi=ao
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-1026-4945
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Wenguang_Nan
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/nan-group
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
