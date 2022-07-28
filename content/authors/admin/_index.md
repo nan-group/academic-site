@@ -49,9 +49,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/nan-group
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -71,4 +68,4 @@ highlight_name: true
 
 研究领域：3D打印和粉体技术中颗粒/多相流动； 新能源相变储热和核能利用过程中流动与传热。
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/南文光-CV-July2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 下载我的{{< staticref "uploads/南文光-CV-July2022.pdf" "newtab" >}}简历{{< /staticref >}}.
