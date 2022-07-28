@@ -35,7 +35,7 @@ experience:
 #        * Analysing
 #        * Modelling
 #        * Deploying
-  - title: 2021.03 - 至今 Virtual Visiting Researcher，英国利兹大学，化学过程工程学院（Mojtaba Ghadiri院士）
+#  - title: 2021.03 - 至今 Virtual Visiting Researcher，英国利兹大学，化学过程工程学院（Mojtaba Ghadiri院士）
 #  - 2017.09 - 至今 助理教授/研究生导师/副教授，南京工业大学，机械与动力工程学院
 #  - 2018.06 - 2018.09 访问学者，英国利兹大学，化学过程工程学院（Mojtaba Ghadiri院士）
 #  - 2015.09 - 2016.10 联合培养博士生，英国利兹大学，化学过程工程学院（Mojtaba Ghadiri院士）
@@ -45,7 +45,7 @@ experience:
 #    company_url: ''
 #    company_logo: org-x
 #    location: California
-    date_start: '2021-03-01'
+    date_start: '2021-03'
     date_end: ''
 #    description: Taught electronic engineering and researched semiconductor physics.
 
