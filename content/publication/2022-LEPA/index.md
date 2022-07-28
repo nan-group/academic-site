@@ -10,9 +10,9 @@ authors:
   - Rahman Mohammad Tarequr
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
 date: '2013-07-01T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.powtec.2022.117634'
@@ -27,13 +27,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Powder Technology*
-publication_short: In *ICW*
+publication: Powder Technology, 2022, 407: 117634
+#publication_short: In *ICW*
 
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags: []
 
