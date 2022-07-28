@@ -12,8 +12,8 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-#date: '2022-01-01T00:00:00Z'
-#doi: 'https://doi.org/10.1016/j.powtec.2022.117634'
+date: ''
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -25,8 +25,8 @@ authors:
 publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-#publication: In *Powder Technology*
-#publication_short: In *PT*
+publication: In **
+publication_short: In **
 
 abstract: 
 [1]	Nan Wenguang, Goh Wei Pin, Rahman Mohammad Tarequr. Elasto-plastic and adhesive contact: An improved linear model and its application. Powder Technology, 2022, 407: 117634.     
