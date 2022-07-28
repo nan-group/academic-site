@@ -1,12 +1,12 @@
 ---
-title: 'An example conference paper'
+title: '[1]	Nan Wenguang, Goh Wei Pin, Rahman Mohammad Tarequr. Elasto-plastic and adhesive contact: An improved linear model and its application. Powder Technology, 2022, 407: 117634'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
-  - admin
-  - Robert Ford
+#authors:
+#  - admin
+#  - Robert Ford
 
 # Author notes (optional)
 author_notes:
