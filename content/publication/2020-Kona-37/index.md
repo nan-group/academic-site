@@ -37,19 +37,7 @@ publication_types: ['2']
 publication: In *KONA Powder and Particle Journal*
 publication_short: In *KONA PPJ*
 
-abstract: Powder processing and manufacturing operations are rate processes for which the bottleneck is cohesive powder 
-flow. Diversity of material properties, particulate form, and sensitivity to environmental conditions, such as 
-humidity and tribo-electric charging, make its prediction very challenging. However, this is highly desirable 
-particularly when addressing a powder material for which only a small quantity is available. Furthermore, in a 
-number of applications powder flow testing at low stress levels is highly desirable.
-Characterisation of bulk powder failure for flow initiation (quasi-static) is well established. However, bulk flow 
-parameters are all sensitive to strain rate with which the powder is sheared, but in contrast to quasi-static test 
-methods, there is no shear cell for characterisation of the bulk parameters in the dynamic regime. There are only a 
-handful of instruments available for powder rheometry, in which the bulk resistance to motion can be quantified 
-as a function of the shear strain rate, but the challenge is relating the bulk behaviour to the physical and 
-mechanical properties of constituting particles. A critique of the current state of the art in characterisation and 
-analysis of cohesive powder flow is presented, addressing the effects of cohesion, strain rate, fluid medium drag 
-and particle shape.
+abstract: Powder processing and manufacturing operations are rate processes for which the bottleneck is cohesive powder flow. Diversity of material properties, particulate form, and sensitivity to environmental conditions, such as humidity and tribo-electric charging, make its prediction very challenging. However, this is highly desirable particularly when addressing a powder material for which only a small quantity is available. Furthermore, in a number of applications powder flow testing at low stress levels is highly desirable.Characterisation of bulk powder failure for flow initiation (quasi-static) is well established. However, bulk flow parameters are all sensitive to strain rate with which the powder is sheared, but in contrast to quasi-static test methods, there is no shear cell for characterisation of the bulk parameters in the dynamic regime. There are only a handful of instruments available for powder rheometry, in which the bulk resistance to motion can be quantified as a function of the shear strain rate, but the challenge is relating the bulk behaviour to the physical and mechanical properties of constituting particles. A critique of the current state of the art in characterisation and analysis of cohesive powder flow is presented, addressing the effects of cohesion, strain rate, fluid medium drag and particle shape.
 
 # Summary. An optional shortened abstract.
 #summary: 
