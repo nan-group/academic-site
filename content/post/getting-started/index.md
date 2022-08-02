@@ -1,9 +1,9 @@
 ---
-title: 朱铭
+title: 在读研究生4名，已毕业研究生2名
 subtitle: 
 
 # Summary for listings and search engines
-summary: 2019年入学
+summary: 
 
 # Link this post with a project
 projects: []
