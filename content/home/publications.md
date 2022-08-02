@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: 期刊论文（2017至今）
+title: 期刊论文（2017年至今）
 subtitle: ''
 
 content:

@@ -28,8 +28,8 @@ doi: 'https://10.1051/epjconf/201714003036'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *EPJ Web Conferencr*
-publication_short: In *EPJ Web Conf.*
+publication: In *Powder and Grains 2019*
+publication_short: In *EPJ*
 
 abstract: The FT4 powder rheometer of Freeman Technology is widely used nowadays in industry for characterisation of particle flow under dynamic conditions of shear strain rate. It measures the work (termed flow energy) required to penetrate a rotating impeller into a powder bed. However, little is known about its underlying powder mechanics, i.e. the relationship between the flow energy and the prevailing local shear stress. This has recently been studied, but only for very simple and ideal systems amenable to analysis by DEM. We analyse the effect of gas flow through the powder bed on the flow behaviour of cohesionless particles in FT4 by DEM-CFD simulation. The results show that the relative particle velocities induced by the mean shear speed, is of the same order as that produced by the root of granular temperature. The shear stress in both cases with and without gas flow could be quantified by the inertial number. The flow energy correlates well with the shear stress in front of the blade, and both increase with the inertial number and could be significantly reduced by the upward gas flow.
 
