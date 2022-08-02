@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
+title: 研究生
 subtitle:
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - 研究生
+      - post
     tag: ''
     category: ''
     publication_type: ''
