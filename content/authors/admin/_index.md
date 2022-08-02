@@ -23,11 +23,7 @@ organizations:
 
 学术经历:
   courses:
-    - 2021.03 - 至今 Virtual Visiting Researcher，英国利兹大学，化学过程工程学院（Mojtaba Ghadiri院士）course: PhD in Artificial Intelligence
-    - 2017.09 - 至今 助理教授/研究生导师/副教授，南京工业大学，机械与动力工程学院
-    - 2018.06 - 2018.09 访问学者，英国利兹大学，化学过程工程学院（Mojtaba Ghadiri院士）
-    - 2015.09 - 2016.10 联合培养博士生，英国利兹大学，化学过程工程学院（Mojtaba Ghadiri院士）
-    - 2011.09 - 2017.06 博士，西安交通大学，能源与动力工程学院（动力工程多相流国家重点实验室，王跃社教授，隶属院士团队）
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -59,10 +55,10 @@ email: 'nanwg@njtech.edu.cn'
 highlight_name: true
 ---
 
-南文光，湖北黄冈人，2017年6月毕业于西安交通大学 动力工程多相流国家重点实验室 (能源与动力工程学院，动力工程及工程热物理学科排名全国第一)，现任南京工业大学 机械与动力工程学院 副教授/研究生导师。长期致力于新能源和新制造技术，已在Chemical Engineering Science、Powder Technology等国际高水平期刊上独立一作发表论文近20余篇。曾在英国利兹大学Mojtaba Ghadiri院士课题组多次访学，现长期保持着深入合作，并以访问学者身份参与多项课题。承担国家纵向和企业横向课题多项，并承担本科生主干课程《流体力学》和《空气动力学》以及研究生主干课程《高等工程热力学》的教学。
+南文光，湖北黄冈人，2017年6月毕业于西安交通大学 动力工程多相流国家重点实验室，现任南京工业大学 机械与动力工程学院 副教授/研究生导师。长期致力于新能源和新制造技术，已在Chemical Engineering Science、Powder Technology等国际高水平期刊上独立一作发表论文近20余篇。曾在英国利兹大学Mojtaba Ghadiri院士课题组多次访学，现长期保持着深入合作，并以访问学者身份参与多项课题。承担国家纵向和企业横向课题多项，并承担本科生主干课程《流体力学》和《空气动力学》以及研究生主干课程《高等工程热力学》的教学。
 
-研究方向:  离散元（DEM）/计算流体力学（CFD）数值模拟; 颗粒多相流动力学; 强化传热。
+研究方向:  离散元（DEM）/计算流体力学（CFD）数值模拟；颗粒多相流动力学
 
-研究领域：3D打印和粉体技术中颗粒/多相流动； 新能源相变储热和核能利用过程中流动与传热。
+研究领域：3D打印中粉体技术中颗粒/多相流动；新能源利用（储能、风电）
 
 {{< icon name="download" pack="fas" >}} 下载我的{{< staticref "uploads/南文光-CV-July2022.pdf" "newtab" >}}简历{{< /staticref >}}.
