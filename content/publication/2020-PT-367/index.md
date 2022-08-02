@@ -36,7 +36,7 @@ abstract: Additive manufacturing based on powder spreading is attracting great i
 # Summary. An optional shortened abstract.
 #summary: 
 
-tags: [Powder spreading; Spreadability; Additive manufacturing; Empty patches; Jamming; Feedstock]
+tags: [Powder spreading, Spreadability, Additive manufacturing, Empty patches, Jamming, Feedstock]
 
 # Display this page in the Featured widget?
 featured: true

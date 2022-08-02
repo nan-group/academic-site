@@ -39,7 +39,7 @@ abstract: Additive manufacturing (AM) is going through an exponential growth, du
 # Summary. An optional shortened abstract.
 #summary: 
 
-tags: [Additive manufacturing; Powder spreading; Jamming; DEM; Non-spherical particle]
+tags: [Additive manufacturing, Powder spreading, Jamming, DEM, Non-spherical particle]
 
 # Display this page in the Featured widget?
 featured: true

@@ -42,7 +42,7 @@ abstract: Powder processing and manufacturing operations are rate processes for 
 # Summary. An optional shortened abstract.
 #summary: 
 
-tags: [Cohesive powder; Bulk flow; Characterisation; Flowability; Spreadability; Additive manufacturing]
+tags: [Cohesive powder, Bulk flow, Characterisation, Flowability, Spreadability, Additive manufacturing]
 
 # Display this page in the Featured widget?
 featured: true

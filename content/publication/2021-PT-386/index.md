@@ -35,7 +35,7 @@ abstract: Understanding of the rheological behaviour of fully three-dimensional 
 # Summary. An optional shortened abstract.
 #summary: 
 
-tags: [Granular media; Rheometer; Rheology; Non-local effect; Viscosity; Kinetic theory]
+tags: [Granular media, Rheometer, Rheology, Non-local effect, Viscosity, Kinetic theory]
 
 # Display this page in the Featured widget?
 featured: true

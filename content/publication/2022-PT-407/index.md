@@ -35,7 +35,7 @@ abstract: An improved linear model is developed for elasto-plastic and adhesive 
 # Summary. An optional shortened abstract.
 #summary: 
 
-tags: [Contact model; Plastic deformation; Cohesive powder; Sticking velocity; DEM; Flowability]
+tags: [Contact model, Plastic deformation, Cohesive powder, Sticking velocity, DEM, Flowability]
 
 # Display this page in the Featured widget?
 featured: true

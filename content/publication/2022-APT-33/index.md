@@ -34,7 +34,7 @@ abstract: Spreadability of cohesive and frictional powder is critical in powder 
 # Summary. An optional shortened abstract.
 #summary: 
 
-tags: [Spreadability; Flowability; Powder spreading; Additive Manufacturing; Cohesive powder]
+tags: [Spreadability, Flowability, Powder spreading, Additive Manufacturing, Cohesive powder]
 
 # Display this page in the Featured widget?
 featured: true

@@ -34,7 +34,7 @@ abstract: Additive manufacturing (AM) has attracted increasing attention in a wi
 # Summary. An optional shortened abstract.
 #summary: 
 
-tags: [Additive manufacturing; Powder spreading; DEM; Shear band; Spreading speed]
+tags: [Additive manufacturing, Powder spreading, DEM, Shear band, Spreading speed]
 
 # Display this page in the Featured widget?
 featured: true

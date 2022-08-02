@@ -34,7 +34,7 @@ abstract: Blade rheometer has been used to characterise the rheological behaviou
 # Summary. An optional shortened abstract.
 #summary: 
 
-tags: [DEM; Blade Rheometer; Mohr-coulomb; Wall friction; Passive failure; Rheology]
+tags: [DEM, Blade Rheometer, Mohr-coulomb, Wall friction, Passive failure, Rheology]
 
 # Display this page in the Featured widget?
 featured: true

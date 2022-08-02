@@ -35,7 +35,7 @@ abstract: Additive Manufacturing (AM) using powder spreading requires uniform sp
 # Summary. An optional shortened abstract.
 #summary: 
 
-tags: [Additive manufacturing; Powder spreading; DEM; Particle convection; Segregation; Jamming]
+tags: [Additive manufacturing, Powder spreading, DEM, Particle convection, Segregation, Jamming]
 
 # Display this page in the Featured widget?
 featured: true

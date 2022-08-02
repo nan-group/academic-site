@@ -35,7 +35,7 @@ abstract: Understanding of particle flow behaviour as a function of strain rate 
 # Summary. An optional shortened abstract.
 #summary: 
 
-tags: [DEM; Rheology; Powder rheometer; Flow energy; Shear stress]
+tags: [DEM, Rheology, Powder rheometer, Flow energy, Shear stress]
 
 # Display this page in the Featured widget?
 featured: true

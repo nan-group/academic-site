@@ -35,7 +35,7 @@ abstract: Rodlike particles have been usually found in industrial applications, 
 # Summary. An optional shortened abstract.
 #summary: 
 
-tags: [Rodlike particle; Non-spherical particle; Packing; Friction factor; Fluidisation]
+tags: [Rodlike particle, Non-spherical particle, Packing, Friction factor, Fluidisation]
 
 # Display this page in the Featured widget?
 featured: true
