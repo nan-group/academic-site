@@ -41,7 +41,7 @@ experience:
 #  - 2015.09 - 2016.10 联合培养博士生，英国利兹大学，化学过程工程学院（Mojtaba Ghadiri院士）
 #  - 2011.09 - 2017.06 博士，西安交通大学，能源与动力工程学院（动力工程多相流国家重点实验室，王跃社教授，隶属院士团队）
   - title: Virtual Visiting Researcher
-    company: 英国利兹大学,化学过程工程学院（Mojtaba Ghadiri院士）
+    company: 英国利兹大学--化学过程工程学院（Mojtaba Ghadiri院士）
     company_url: 'https://ghadiri-group.leeds.ac.uk/'
     company_logo: 
     location: 
@@ -50,7 +50,7 @@ experience:
     description: 
 
   - title: 助理教授/研究生导师/副教授
-    company: 南京工业大学，机械与动力工程学院
+    company: 南京工业大学--机械与动力工程学院
     company_url: ''
     company_logo: 
     location: 
@@ -59,7 +59,7 @@ experience:
     description: 
 
   - title: 访问学者
-    company: 英国利兹大学,化学过程工程学院（Mojtaba Ghadiri院士）
+    company: 英国利兹大学--化学过程工程学院（Mojtaba Ghadiri院士）
     company_url: 'https://ghadiri-group.leeds.ac.uk/'
     company_logo: 
     location: 
@@ -68,7 +68,7 @@ experience:
     description: 
 
   - title: 联合培养博士生
-    company: 英国利兹大学,化学过程工程学院（Mojtaba Ghadiri院士）
+    company: 英国利兹大学--化学过程工程学院（Mojtaba Ghadiri院士）
     company_url: 'https://ghadiri-group.leeds.ac.uk/'
     company_logo: 
     location: 
@@ -77,7 +77,7 @@ experience:
     description: 
 
   - title: 博士
-    company: 西安交通大学，能源与动力工程学院（动力工程多相流国家重点实验室，王跃社教授，隶属院士团队）
+    company: 西安交通大学--能源与动力工程学院（动力工程多相流国家重点实验室，王跃社教授，隶属院士团队）
     company_url: ''
     company_logo: 
     location: 

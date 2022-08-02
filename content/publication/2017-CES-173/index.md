@@ -35,7 +35,7 @@ abstract: Particle shape has a strong influence on bulk powder flow and its asso
 # Summary. An optional shortened abstract.
 #summary: 
 
-tags: [DEM, Rheology, Non-spherical particle, Rodlike particle, Flow energy]
+tags: [DEM; Rheology; Non-spherical particle; Rodlike particle; Flow energy]
 
 # Display this page in the Featured widget?
 featured: true

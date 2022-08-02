@@ -35,7 +35,7 @@ abstract: Powder spreading in Additive Manufacturing (AM) has been analysed exte
 # Summary. An optional shortened abstract.
 #summary: 
 
-tags: [Additive manufacturing, Powder spreading, DEM-CFD, Spread layer, Flowability, Spreadability]
+tags: [Additive manufacturing; Powder spreading; DEM-CFD; Spread layer; Flowability; Spreadability]
 
 # Display this page in the Featured widget?
 featured: true
