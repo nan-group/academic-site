@@ -6,8 +6,7 @@ title: 'Experimental investigation on the spreadability of cohesive and friction
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Goh Wei Pin 
-  - Gu Yiqing
+  - Yiqing Gu
 
 # Author notes (optional)
 #author_notes:
@@ -18,7 +17,7 @@ date: '2022-01-01T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.apt.2022.103466'
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: '2017-01-01T00:00:00Z'
+#publishDate: '2022-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,15 +26,15 @@ doi: 'https://doi.org/10.1016/j.apt.2022.103466'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Advanced Powder Technology*
+publication: In *Advanced Powder Techonology*
 publication_short: In *APT*
 
-abstract: .
+abstract: Spreadability of cohesive and frictional powder is critical in powder spreading of additive manufacturing. Different to flowability, the experimental test techniques and underlying powder mechanics of spreadability have not yet been thoroughly acknowledged. In this work, the effects of operation conditions and particle properties on the spreadability of metal powder are experimentally investigated. A measure of relative spreadability based on D90 is proposed, considering the effect of size classes of powder. The results show that the spreadability is a non-monic function of the spreading speed, and there is an optimal spreading speed. A concept of dynamic spreadability is also proposed to consider the demand of a high manufacturing rate in AM. The spreadability is strongly affected by the detachment of particles from the heap and the re-filling process of the depletion region. Excellent spreadability could only be obtained in a specified range of flowability, where the powder should neither extremely cohesive nor excessively free-flowing with little frictional resistance.
 
 # Summary. An optional shortened abstract.
 #summary: 
 
-tags: [Contact model; Plastic deformation; Cohesive powder; Sticking velocity; DEM; Flowability]
+tags: [Spreadability, Flowability, Spreading, Additive Manufacturing, Cohesive]
 
 # Display this page in the Featured widget?
 featured: true
