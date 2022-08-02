@@ -15,7 +15,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2017-01-01T00:00:00Z'
+date: '2017-07-01T00:00:00Z'
 doi: 'https://10.1051/epjconf/201714003036'
 
 # Schedule page publish date (NOT publication's date).
@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'graphical abstract'
+  caption: ''
   focal_point: ''
   preview_only: false
 

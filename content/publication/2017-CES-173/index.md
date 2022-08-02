@@ -14,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2017-01-01T00:00:00Z'
+date: '2017-12-01T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.ces.2017.08.004'
 
 # Schedule page publish date (NOT publication's date).
@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'graphical abstract'
+  caption: ''
   focal_point: ''
   preview_only: false
 
