@@ -6,22 +6,22 @@
 main:
   - name: 简介
     url: '#about'
-    weight: 30
-  #- name: Posts
-  #  url: '#posts'
-  #  weight: 20
+    weight: 20
   - name: 科学研究
     url: '#projects'
-    weight: 40
- # - name: Talks
- #   url: '#talks'
- #   weight: 40
+    weight: 30
   - name: 学术发表
     url: '#publications'
+    weight: 40
+  - name: 研究生
+    url: '#posts'
     weight: 50
   - name: 联系方式
     url: '#contact'
     weight: 60
+ # - name: Talks
+ #   url: '#talks'
+ #   weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
