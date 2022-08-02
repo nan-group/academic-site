@@ -1,5 +1,5 @@
 ---
-title: post
+title: student
 cms_exclude: true
 
 # View.

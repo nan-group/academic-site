@@ -14,7 +14,7 @@ main:
     url: '#publications'
     weight: 40
   - name: 研究生
-    url: '#posts'
+    url: '#students'
     weight: 50
   - name: 联系方式
     url: '#contact'
