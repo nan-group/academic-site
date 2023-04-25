@@ -19,7 +19,7 @@ date: '2023-04-25T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.powtec.2023.118577'
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: '2023-04-25T00:00:00Z'
+#publishDate: '2023-04-24T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,7 +31,7 @@ publication_types: ['2']
 publication: In *Powder Technology*
 publication_short: In *PT*
 
-abstract:Powder spreadability is critical to particle spread layer and thus the quality of final product in powder-based additive manufacturing. In this work, the effect of plastic deformation on the spreadability is investigated, in which particle jamming, particle dynamics within the heap, and spread layer are analysed. The results show that under the effect of plastic deformation, mechanical jamming at narrow gap is significantly reduced, and flowability of particles becomes worse. Large tensile force of contacts could be induced by jamming even when cohesion yield number (CY) is larger than 1. Better spreadability could be obtained if plastic deformation is involved, due to less jamming. However, if the plastic deformation of particles within the heap is too large, spreadability would be significantly reduced, due to worse flowability. The results also clarified that the effect of plastic deformation on powder spreadability could not be simply replaced by adding extra surface energy to the particles.
+abstract: Powder spreadability is critical to particle spread layer and thus the quality of final product in powder-based additive manufacturing. In this work, the effect of plastic deformation on the spreadability is investigated, in which particle jamming, particle dynamics within the heap, and spread layer are analysed. The results show that under the effect of plastic deformation, mechanical jamming at narrow gap is significantly reduced, and flowability of particles becomes worse. Large tensile force of contacts could be induced by jamming even when cohesion yield number (CY) is larger than 1. Better spreadability could be obtained if plastic deformation is involved, due to less jamming. However, if the plastic deformation of particles within the heap is too large, spreadability would be significantly reduced, due to worse flowability. The results also clarified that the effect of plastic deformation on powder spreadability could not be simply replaced by adding extra surface energy to the particles.
 # Summary. An optional shortened abstract.
 #summary: 
 
