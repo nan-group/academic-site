@@ -1,0 +1,4 @@
+https://academic-demo.netlify.app/
+
+
+https://github.com/wowchemy/starter-hugo-academic/
