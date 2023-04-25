@@ -5,10 +5,10 @@ title: 'Effect of plastic deformation on the spreadability of cohesive powder in
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Admin
+  - admin
   - Md Arifur Rahman
   - Lanzhou Ge
-  -Zhonggang Sun
+  - Zhonggang Sun
 
 # Author notes (optional)
 #author_notes:
