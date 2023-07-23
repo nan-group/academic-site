@@ -14,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2023-07-021T00:00:00Z'
+date: '2023-07-21T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.triboint.2023.108818'
 
 # Schedule page publish date (NOT publication's date).
