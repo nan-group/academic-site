@@ -1,5 +1,5 @@
 ---
-title: Wear of blade spreader during powder spreading in Additive Manufacturing'
+title: 'Wear of blade spreader during powder spreading in Additive Manufacturing'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
