@@ -15,7 +15,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2024-04-31T00:00:00Z'
+date: '2024-04-01T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.powtec.2023.119057'
 
 # Schedule page publish date (NOT publication's date).
