@@ -7,6 +7,8 @@ title: 'Ab initio simulation of the dynamic shock response of single crystal and
 authors:
   - Yulun Xu
   - admin
+  - Zhonggang Sun
+
 
 # Author notes (optional)
 #author_notes:
