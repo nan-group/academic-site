@@ -37,6 +37,10 @@ abstract: Powder-based additive manufacturing (AM) technology has been widely us
 #summary: 
 
 tags: [Additive manufacturing, Powder spreading, Spreadability, Defects, Machine learning]
+# Summary. An optional shortened abstract.
+#summary: 
+
+tags: [Granular flow, Intermittent jamming, Rheometer, Cohesion, Flowability, Discrete element method]
 
 # Display this page in the Featured widget?
 featured: true
