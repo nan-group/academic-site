@@ -61,4 +61,4 @@ highlight_name: true
 
 研究领域：先进制造中颗粒/流体的流动与传热；双碳计划中新能源利用（储能/风电/核电）
 
-{{< icon name="download" pack="fas" >}} 下载我的{{< staticref "uploads/南文光-CV-Feb2024.pdf" "newtab" >}}简历{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 下载我的{{< staticref "uploads/南文光-CV-Feb2025.pdf" "newtab" >}}简历{{< /staticref >}}.
