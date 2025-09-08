@@ -6,11 +6,11 @@ title: 'A novel coaxial powder-feeding additive friction stir deposition method 
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Liu, Zhongxu
-  - Nan, Wenguang
-  - He, Ziming
-  - Sun, Zhonggang
-  - Li, Wenya
+  - Zhongxu Liu
+  - Wenguang Nan
+  - Ziming He
+  - Zhonggang Sun
+  - Wenya Li
 
 # Author notes (optional)
 #author_notes:
@@ -18,7 +18,10 @@ authors:
 #  - 'Equal contribution'
 
 date: '2025-05-22T00:00:00Z'
-doi: '10.1007/s40964-025-01161-x'
+doi: 'https://doi.org/10.1007/s40964-025-01161-x'
+
+# Schedule page publish date (NOT publication's date).
+#publishDate: '2025-05-22T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,7 +31,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Progress in Additive Manufacturing*
-publication_short: In *Prog Addit Manuf‌*
+publication_short: In *Prog Addit Manuf*
 
 abstract: A novel powder-based additive friction stir deposition (AFSD) with coaxial powder feeding is proposed in this work, in which the material can be continuously fed without any blocking/chocking problem, and the feeding rate of fine powder could be easily controlled by the rotating screw. The plastic deformation of powder material in this method is mainly due to the friction stir effect of the rotating tool instead of the screw extrusion. The feasibility of this method in the recycling of nylon 6 powder with different size classes is demonstrated. The manufactured specimen has no significant defects except for the ripple skin and flashes at the edges, which are also prone in other kinds of AFSD. The deposition temperature of the powder material is around 75% of the melting temperature. The material extruded from the channel between the protrusions of the tool moves at a very slow speed (i.e. 2–3 mm/s) before being deposited onto the base, which is only a few percent of the rotational speed of the tool. The α-type crystals are prone to forming in the manufactured specimens for all kinds of powder used in this work, although the experiment is conducted under natural cooling conditions at room temperature. The high hardness of the specimen, i.e. 160–200 MPa, demonstrates the advantage of the additive friction stir deposition developed in this work. The mechanical performance of the specimen increases with the particle size of the powder as they are more easily plastically deformed under the friction stir effect of the tool.
 # Summary. An optional shortened abstract.
@@ -46,7 +49,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: https://doi.org/10.1007/s40964-025-01161-x
+#   url: http://example.org
 
 url_pdf: ''
 url_code: ''
